@@ -1,5 +1,5 @@
-# SubGoal-AuroreTVv
-Theme SubGoal pour la chaine Twitch AuroreTVv 
+# ObjGoal-AuroreTVv
+Theme ObjGoal pour la chaine Twitch AuroreTVv 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/TheMaxium69/ObjGoal-AuroreTVv)
 [![For](https://img.shields.io/badge/For-AuroreTVv-red)](https://twitch.tv/Auroretvv)
