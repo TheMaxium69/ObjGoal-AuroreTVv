@@ -10,8 +10,8 @@ Theme SubGoal pour la chaine Twitch AuroreTVv
  
 [Link](https://streamlabs.com/dashboard#/subgoal) -> Setting -> Enable Custom HTML/CSS -> Enabled
 
-[HTML](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/import/index.html) -> Copy code
+[HTML](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/index.html) -> Copy code
 
-[CSS](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/import/style.css) -> Copy code
+[CSS](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/style.css) -> Copy code
 
-[JS](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/import/script.js) -> Copy code
+[JS](https://raw.githubusercontent.com/TheMaxium69/SubGoal-AuroreTVv/main/script.js) -> Copy code
