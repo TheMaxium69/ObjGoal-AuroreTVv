@@ -1,0 +1,45 @@
+/*
+
+TOUT COPIER DANS LA PARTI "CSS"
+
+*/
+
+body {
+    --color-default: #2ab8ab;
+    /* background-color: white; */
+}
+
+.spinner-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+  
+.spinner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+  
+.spinner-circle {
+    fill: none;
+    stroke-width: 10;
+    stroke: var(--color-default);
+    stroke-dasharray: 251.2;
+    stroke-dashoffset: 0;
+    transition: stroke-dashoffset 1s ease-out; 
+    
+}
+
+.subtext{
+    text-align: center;
+    width: 100px;
+    margin: 0;
+    font-weight: bold;
+    font-size: 25px;
+    color: var(--color-default);
+    text-shadow: rgb(0, 0, 0) 1px 0 2px;
+}
