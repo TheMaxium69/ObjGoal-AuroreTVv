@@ -4,6 +4,8 @@ Theme SubGoal pour la chaine Twitch AuroreTVv
 ![GitHub top language](https://img.shields.io/github/languages/top/TheMaxium69/SubGoal-AuroreTVv)
 [![For](https://img.shields.io/badge/For-AuroreTVv-red)](https://twitch.tv/Auroretvv)
 
+![image](https://user-images.githubusercontent.com/63310746/233851382-32c27cf1-618a-40b0-a645-11a35ae50560.png)
+
 ## Tuto
  
 [Link](https://streamlabs.com/dashboard#/subgoal) -> setting -> Enable Custom HTML/CSS -> Enabled
